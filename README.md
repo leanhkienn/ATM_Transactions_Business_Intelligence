@@ -1,4 +1,4 @@
-# [POWER BI] Us E-commerce Store Analytics
+# [POWER BI] E-commerce US Store Analytics
 
 
 ## Initial Raw Data File
