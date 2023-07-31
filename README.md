@@ -1,13 +1,14 @@
-# [POWER BI] E-commerce US Store Analytics
+![image](https://github.com/leanhkienn/E-commerce-USstore-Advanced-PowerBI/assets/116093407/7fc1d952-9d70-42e5-bcee-937b16eb6101)# [POWER BI] E-commerce US Store Analytics
 
 
-## Initial Raw Data File
+## Example of one initial Raw Data File
 ![Screenshot 2023-07-03 144420](https://github.com/leanhkienn/EcommercePowerBI/assets/116093407/4e60e828-37f7-47e7-a16d-40310235b333)
 
 <br>
 
 ## Analyze the Cost of the E-commerce
-![Screenshot 2023-07-03 150822](https://github.com/leanhkienn/EcommercePowerBI/assets/116093407/a3a567d7-2037-4f41-85dc-f47e02de4303)
+![image](https://github.com/leanhkienn/E-commerce-USstore-Advanced-PowerBI/assets/116093407/89f6bc28-417e-497e-a247-10fac9f0aa8d)
+
 
 <br>
 
