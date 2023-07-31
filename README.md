@@ -13,7 +13,8 @@
 <br>
 
 ## Analyze the Cost of the E-commerce
-![Screenshot 2023-07-03 150840](https://github.com/leanhkienn/EcommercePowerBI/assets/116093407/430ae634-8f03-468b-849d-ca2d9160d5df)
+![image](https://github.com/leanhkienn/E-commerce-USstore-Advanced-PowerBI/assets/116093407/4d5e8f2d-15a4-460e-a394-24ae66aec7b7)
+
 
 <br>
 
