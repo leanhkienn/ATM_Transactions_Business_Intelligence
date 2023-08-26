@@ -1,4 +1,4 @@
-# [POWER BI] E-commerce US Store Analytics
+# [POWER BI] ATM Transactions Business Intelligence Project
 
 
 ## Example of one initial Raw Data File
