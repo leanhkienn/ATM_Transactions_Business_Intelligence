@@ -36,7 +36,6 @@
   Consider offering additional services at the ATM, such as the ability to deposit checks or make cash withdrawals in different denominations.
 
   Conduct surveys or use customer analytics to understand the preferences and habits of customers who use the ATM, and tailor the ATM's services and features to better meet their needs.
-![image](https://github.com/leanhkienn/ATM_Transactions_Business_Intelligence_Project/assets/116093407/f4aef05b-8574-4fba-a23c-c063385efda7)
 
 
 ### Average Transaction Duration in Kano is longer when compared to other locations. Possible solutions to remedy this include:
@@ -50,5 +49,4 @@
   Analyze transaction data to identify bottlenecks or issues that may be contributing to longer transaction times. This could involve looking at patterns of usage, common user errors, or technical issues that may be slowing down the process.
 
   Provide customers with education on how to use the ATM more efficiently, such as by highlighting common errors to avoid or offering guidance on how to complete transactions more quickly.
-![image](https://github.com/leanhkienn/ATM_Transactions_Business_Intelligence_Project/assets/116093407/acd94162-a70d-4f52-af59-f29db3600920)
 
