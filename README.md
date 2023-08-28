@@ -1,30 +1,25 @@
 # [POWER BI] ATM Transactions Business Intelligence Project
 
 
-## Example of one initial Raw Data File
-![Screenshot 2023-07-03 144420](https://github.com/leanhkienn/EcommercePowerBI/assets/116093407/4e60e828-37f7-47e7-a16d-40310235b333)
+## The COVER Dashboard of the Project
+![image](https://github.com/leanhkienn/ATM_Transactions_Business_Intelligence_Project/assets/116093407/604c56cb-f8ef-4b8d-aed3-b176d8cf6f0e)
 
 <br>
 
-## Costs and Revenue by States (with filters)
-![image](https://github.com/leanhkienn/E-commerce-USstore-Advanced-PowerBI/assets/116093407/89f6bc28-417e-497e-a247-10fac9f0aa8d)
+## Overview Page of ATM Transactions in every City of Nigeria
+![image](https://github.com/leanhkienn/ATM_Transactions_Business_Intelligence_Project/assets/116093407/43fb0606-2e79-47a5-8cd7-744a729de1c4)
 
 
 <br>
 
 ## Analyze the Cost of the E-commerce
-![image](https://github.com/leanhkienn/E-commerce-USstore-Advanced-PowerBI/assets/116093407/4d5e8f2d-15a4-460e-a394-24ae66aec7b7)
+![image](https://github.com/leanhkienn/ATM_Transactions_Business_Intelligence_Project/assets/116093407/95f6e6bf-f428-4020-84fc-37273d3df028)
 
 
 <br>
 
 
-## Predict Revenue
-![image](https://github.com/leanhkienn/E-commerce-USstore-Advanced-PowerBI/assets/116093407/3430d041-5c7c-4df3-b701-043562f72d8d)
-
+## Look over the DEMOGRAPHY of Transactions
 
 <br>
-
-## Sub_categories and Sales overtime
-![image](https://github.com/leanhkienn/E-commerce-USstore-Advanced-PowerBI/assets/116093407/cba73f96-5476-4a94-bd1a-ef9d2429f89a)
 
