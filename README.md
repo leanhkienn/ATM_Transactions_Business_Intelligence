@@ -24,7 +24,7 @@
 <br>
 
 ## RECOMMENDAtIONs
-Utilization rate in the FCT is comparatively low. Possible solutions to remedy this include:
+# Utilization rate in the FCT is comparatively low. Possible solutions to remedy this include:
 
   Make sure that the ATMs are visible and accessible to customers. This could involve relocating the ATMs to more prominent locations, installing signage, or improving lighting and landscaping around the ATMs.
 
@@ -36,3 +36,17 @@ Utilization rate in the FCT is comparatively low. Possible solutions to remedy t
 
   Conduct surveys or use customer analytics to understand the preferences and habits of customers who use the ATM, and tailor the ATM's services and features to better meet their needs.
 ![image](https://github.com/leanhkienn/ATM_Transactions_Business_Intelligence_Project/assets/116093407/f4aef05b-8574-4fba-a23c-c063385efda7)
+
+# Average Transaction Duration in Kano is longer when compared to other locations. Possible solutions to remedy this include:
+
+  Increase the number of ATMs available in the branch, as this can reduce wait times and congestion at each individual ATM.
+
+  Consider upgrading the ATMs to newer models with faster transaction times and more advanced features. This can improve the overall experience for customers using the ATM and may encourage them to use it more   often.
+
+  Ensure that the ATMs are regularly serviced and maintained to prevent downtime and minimize technical issues that can contribute to longer transaction times.
+
+  Analyze transaction data to identify bottlenecks or issues that may be contributing to longer transaction times. This could involve looking at patterns of usage, common user errors, or technical issues that may be slowing down the process.
+
+  Provide customers with education on how to use the ATM more efficiently, such as by highlighting common errors to avoid or offering guidance on how to complete transactions more quickly.
+![image](https://github.com/leanhkienn/ATM_Transactions_Business_Intelligence_Project/assets/116093407/acd94162-a70d-4f52-af59-f29db3600920)
+
