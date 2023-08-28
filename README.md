@@ -21,6 +21,11 @@
 
 ## Analyze the Cost of the E-commerce
 ![image](https://github.com/leanhkienn/ATM_Transactions_Business_Intelligence_Project/assets/116093407/95f6e6bf-f428-4020-84fc-37273d3df028)
+- Interestingly, customers above 65 years have a higher transaction frequency (216) than the 56 - 65 & 46 - 55 age groups (207 & 205 respectively). 
+- Across all Age Groups, Withdrawals is the common transaction type (>50%), followed by Transfers (>20%)
+- Across all locations, Withdrawals has the longest duration on average. 
+- We had the highest number of transactions and transaction amount in March
+- Other months with high transaction activity include January, May, July, October, and December
 
 
 <br>
