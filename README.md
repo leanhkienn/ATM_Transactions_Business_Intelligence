@@ -37,6 +37,7 @@
 
   Conduct surveys or use customer analytics to understand the preferences and habits of customers who use the ATM, and tailor the ATM's services and features to better meet their needs.
 
+<br>
 
 ### Average Transaction Duration in Kano is longer when compared to other locations. Possible solutions to remedy this include:
 
