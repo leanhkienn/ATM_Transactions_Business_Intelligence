@@ -9,6 +9,13 @@
 ## Overview Page of ATM Transactions in every City of Nigeria
 ![image](https://github.com/leanhkienn/ATM_Transactions_Business_Intelligence_Project/assets/116093407/43fb0606-2e79-47a5-8cd7-744a729de1c4)
 
+- Rivers & Lagos have Utilization Rates greater than 12% (12.7% & 12.2% respectively) while that for Enugu is 11.6%
+- Customers between 15-25 years have the highest transaction frequency (260).
+- Kano, Lagos, and the FCT have longer transaction duration for Deposits (>5 mins) while Rivers has the lowest transaction duration for deposits. (<4 mins)
+- ATM Transactions in Lagos increase gradually from 6 am and peak between 3 and 7 pm.
+- On Average, Withdrawals have the highest transaction amounts across all states, next is Transfers, with Deposits having the lowest.
+
+
 
 <br>
 
