@@ -24,7 +24,7 @@
 <br>
 
 ## RECOMMENDAtIONs
-# Utilization rate in the FCT is comparatively low. Possible solutions to remedy this include:
+### Utilization rate in the FCT is comparatively low. Possible solutions to remedy this include:
 
   Make sure that the ATMs are visible and accessible to customers. This could involve relocating the ATMs to more prominent locations, installing signage, or improving lighting and landscaping around the ATMs.
 
@@ -37,7 +37,7 @@
   Conduct surveys or use customer analytics to understand the preferences and habits of customers who use the ATM, and tailor the ATM's services and features to better meet their needs.
 ![image](https://github.com/leanhkienn/ATM_Transactions_Business_Intelligence_Project/assets/116093407/f4aef05b-8574-4fba-a23c-c063385efda7)
 
-# Average Transaction Duration in Kano is longer when compared to other locations. Possible solutions to remedy this include:
+### Average Transaction Duration in Kano is longer when compared to other locations. Possible solutions to remedy this include:
 
   Increase the number of ATMs available in the branch, as this can reduce wait times and congestion at each individual ATM.
 
