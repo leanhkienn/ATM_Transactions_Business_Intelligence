@@ -31,7 +31,7 @@
 <br>
 
 
-## RECOMMENDAtIONs
+## RECOMMENDATIONS
 
 ### Utilization rate in the FCT is comparatively low. Possible solutions to remedy this include:
 
